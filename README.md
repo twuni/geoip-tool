@@ -1,4 +1,4 @@
-This lightweight tool uses the MaxMind GeoIP C API to print geographical information about a given set of IP addresses.
+This lightweight tool uses the [MaxMind GeoIP C API][3] to print geographical information about a given set of IP addresses.
 
 Usage
 -----
@@ -34,3 +34,4 @@ There's no automated install script just yet, but you can get it running by foll
 
  [1]: http://www.maxmind.com/app/c
  [2]: http://www.maxmind.com/app/installation?city=1
+ [3]: https://github.com/maxmind/geoip-api-c
